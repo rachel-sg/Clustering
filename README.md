@@ -49,5 +49,3 @@ rachel.sgallova@centrum.cz
 ## Acknowledgements
 
 Portions of the text in this notebook were edited with assistance from OpenAI's ChatGPT, subsequently reviewed and revised by the author. ChatGPT was also consulted for programming related questions and clarifications, however all code was written, tested, and validated by the author.
-# Clustering
-Proof of concept for clustering a dataset composed of two subsets with significantly different dimensionality.
